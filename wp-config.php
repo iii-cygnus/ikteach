@@ -36,7 +36,7 @@ define('DB_COLLATE', '');
 define('COOKIE_DOMAIN', '.ikteach.local');
 define('COOKIEPATH', '');
 
-define('WP_SITEURL', 'http://ikteach.local/');
+define('WP_SITEURL', 'http://ikteach.local/ikteach');
 define('WP_HOME', 'http://ikteach.local/');
 
 //define('FORCE_SSL_ADMIN', true);
